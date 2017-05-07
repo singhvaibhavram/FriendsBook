@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\Apps\LoginAsssignment\Friendsbook\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="F:\Apps\LoginAsssignment\Friendsbook\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5bb113f331f9f0ce38d6ed804e123d0f47da90d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Apps\LoginAsssignment\Friendsbook\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="87f9f97b24c210fc2f2b02f6c8a32427d3a1663c">
+        <dex dex="F:\Apps\LoginAsssignment\Friendsbook\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b2e7150e4d4c9843bab7754fbaf25ff16c85b2bb\classes.dex" />
+    </item>
+
+</items>
