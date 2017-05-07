@@ -10,7 +10,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     android:gravity="center"
     android:background="@color/fbColor"
-    tools:context="ando.com.loginasssignment.MainActivity">
+    tools:context="ando.com.friendsbook.MainActivity">
 
 
     <LinearLayout

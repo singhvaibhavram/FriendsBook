@@ -3,6 +3,15 @@
 
     <item
         is-multidex="true"
+        jar="F:\Apps\LoginAsssignment\Friendsbook\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="87f9f97b24c210fc2f2b02f6c8a32427d3a1663c">
+        <dex dex="F:\Apps\LoginAsssignment\Friendsbook\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b2e7150e4d4c9843bab7754fbaf25ff16c85b2bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="F:\Apps\LoginAsssignment\Friendsbook\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
@@ -12,12 +21,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="F:\Apps\LoginAsssignment\Friendsbook\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="F:\Apps\FriendsBook\Friendsbook\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="87f9f97b24c210fc2f2b02f6c8a32427d3a1663c">
-        <dex dex="F:\Apps\LoginAsssignment\Friendsbook\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b2e7150e4d4c9843bab7754fbaf25ff16c85b2bb\classes.dex" />
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="F:\Apps\FriendsBook\Friendsbook\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b03e165b72d6e11759fc271483b2dba8b0ade74d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Apps\FriendsBook\Friendsbook\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf00d61a9dff7513880a91508b08a7d56831f128">
+        <dex dex="F:\Apps\FriendsBook\Friendsbook\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_dee3a3df32bffa65b6b509edd513255449ac61ea\classes.dex" />
     </item>
 
 </items>

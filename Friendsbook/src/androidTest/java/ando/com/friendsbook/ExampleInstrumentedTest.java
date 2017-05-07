@@ -1,4 +1,4 @@
-package ando.com.loginasssignment;
+package ando.com.friendsbook;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("ando.com.loginasssignment", appContext.getPackageName());
+        assertEquals("ando.com.friendsbook", appContext.getPackageName());
     }
 }

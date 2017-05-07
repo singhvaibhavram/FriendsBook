@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/FriendsBook.iml" filepath="$PROJECT_DIR$/FriendsBook.iml" />
       <module fileurl="file://$PROJECT_DIR$/Friendsbook/Friendsbook.iml" filepath="$PROJECT_DIR$/Friendsbook/Friendsbook.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LoginAsssignment.iml" filepath="$PROJECT_DIR$/LoginAsssignment.iml" />
     </modules>
   </component>
 </project>

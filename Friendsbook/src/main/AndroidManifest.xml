@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="ando.com.loginasssignment">
+    package="ando.com.friendsbook">
 
     <application
         android:allowBackup="true"
@@ -8,7 +8,7 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name="ando.com.friendsbook.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -16,12 +16,12 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".RegisterActivity"
+            android:name="ando.com.friendsbook.RegisterActivity"
             android:label="@string/title_activity_register"
             android:theme="@style/AppTheme.NoActionBar" >
         </activity>
         <activity
-            android:name=".LoginSuccessful"
+            android:name="ando.com.friendsbook.LoginSuccessful"
             android:label="@string/title_activity_login_successful"
             android:theme="@style/AppTheme.NoActionBar"/>
     </application>

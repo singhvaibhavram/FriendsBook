@@ -1,4 +1,4 @@
-package ando.com.loginasssignment;
+package ando.com.friendsbook;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
